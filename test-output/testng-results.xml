@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T01:28:06 IST" name="Default suite" finished-at="2024-03-06T01:28:46 IST" duration-ms="40368">
+    <groups>
+      <group name="smoke">
+        <method signature="DisplayNewBikes.EnterDetails()[pri:12, instance:bikesMain.DisplayNewBikes@293a5bf6]" name="EnterDetails" class="bikesMain.DisplayNewBikes"/>
+        <method signature="DisplayNewBikes.ErrorMsg()[pri:13, instance:bikesMain.DisplayNewBikes@293a5bf6]" name="ErrorMsg" class="bikesMain.DisplayNewBikes"/>
+        <method signature="DisplayNewBikes.Google()[pri:10, instance:bikesMain.DisplayNewBikes@293a5bf6]" name="Google" class="bikesMain.DisplayNewBikes"/>
+        <method signature="DisplayNewBikes.Lognwndw()[pri:11, instance:bikesMain.DisplayNewBikes@293a5bf6]" name="Lognwndw" class="bikesMain.DisplayNewBikes"/>
+        <method signature="DisplayNewBikes.NewBikes()[pri:0, instance:bikesMain.DisplayNewBikes@293a5bf6]" name="NewBikes" class="bikesMain.DisplayNewBikes"/>
+        <method signature="DisplayNewBikes.UpcomingBikes()[pri:1, instance:bikesMain.DisplayNewBikes@293a5bf6]" name="UpcomingBikes" class="bikesMain.DisplayNewBikes"/>
+        <method signature="DisplayNewBikes.login()[pri:9, instance:bikesMain.DisplayNewBikes@293a5bf6]" name="login" class="bikesMain.DisplayNewBikes"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-03-06T01:28:06 IST" name="Default test" finished-at="2024-03-06T01:28:46 IST" duration-ms="40368">
+      <class name="bikesMain.DisplayNewBikes">
+        <test-method is-config="true" signature="setup()[pri:0, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:06 IST" name="setup" finished-at="2024-03-06T01:28:12 IST" duration-ms="6227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NewBikes()[pri:0, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:12 IST" name="NewBikes" finished-at="2024-03-06T01:28:13 IST" duration-ms="1390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewBikes -->
+        <test-method signature="UpcomingBikes()[pri:1, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:13 IST" name="UpcomingBikes" finished-at="2024-03-06T01:28:16 IST" duration-ms="2302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpcomingBikes -->
+        <test-method signature="ManufacturerDrop()[pri:2, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:16 IST" name="ManufacturerDrop" finished-at="2024-03-06T01:28:18 IST" duration-ms="2629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManufacturerDrop -->
+        <test-method signature="ClickHonda()[pri:3, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:18 IST" name="ClickHonda" finished-at="2024-03-06T01:28:19 IST" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickHonda -->
+        <test-method signature="Viewmore()[pri:4, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:19 IST" name="Viewmore" finished-at="2024-03-06T01:28:20 IST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Viewmore -->
+        <test-method signature="ModelName()[pri:5, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:20 IST" name="ModelName" finished-at="2024-03-06T01:28:21 IST" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModelName -->
+        <test-method signature="Usedcars()[pri:6, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:21 IST" name="Usedcars" finished-at="2024-03-06T01:28:22 IST" duration-ms="681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Usedcars -->
+        <test-method signature="clickChennai()[pri:7, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:22 IST" name="clickChennai" finished-at="2024-03-06T01:28:28 IST" duration-ms="5784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickChennai -->
+        <test-method signature="GetCarBrands()[pri:8, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:28 IST" name="GetCarBrands" finished-at="2024-03-06T01:28:30 IST" duration-ms="2606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCarBrands -->
+        <test-method signature="login()[pri:9, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:30 IST" name="login" finished-at="2024-03-06T01:28:31 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Google()[pri:10, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:31 IST" name="Google" finished-at="2024-03-06T01:28:36 IST" duration-ms="5298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method signature="Lognwndw()[pri:11, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:36 IST" name="Lognwndw" finished-at="2024-03-06T01:28:40 IST" duration-ms="4593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lognwndw -->
+        <test-method signature="EnterDetails()[pri:12, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:40 IST" name="EnterDetails" finished-at="2024-03-06T01:28:44 IST" duration-ms="3281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetails -->
+        <test-method signature="ErrorMsg()[pri:13, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:44 IST" name="ErrorMsg" finished-at="2024-03-06T01:28:45 IST" duration-ms="1119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ErrorMsg -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:bikesMain.DisplayNewBikes@293a5bf6]" started-at="2024-03-06T01:28:45 IST" name="Close" finished-at="2024-03-06T01:28:46 IST" duration-ms="1200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- bikesMain.DisplayNewBikes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
